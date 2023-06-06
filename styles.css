@@ -21,11 +21,13 @@ p {
     font-size: 18px;
     padding: 10px;
     margin: 20px;
-    text-align: center;
 }
 
 main{
   min-height: 61vh;
+}
+.greeting{
+  text-align: center;
 }
 .container {
     max-width: 800px;
